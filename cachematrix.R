@@ -1,5 +1,6 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+## Assignment 2 Lexical scoping
 
 ## Write a short comment describing this function
 
